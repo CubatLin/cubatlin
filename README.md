@@ -7,7 +7,7 @@
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fcubatlin&count_bg=%2395DFAF&title_bg=%239A9897&icon=python.svg&icon_color=%23FFBCF5&title=HITs%21&edge_flat=false)](https://hits.seeyoufarm.com)
 
 ###  🎙️ Activities 👯
-* **Data Science:** With 5+ years of data science experience (NLP/Graph/ML) specializing in the development of scalable and efficient end-to-end ML pipelines in multiple sectors(banking/insurance/financial holding/e-commerence).
+* **Data Science:** With 5+ years of data science experience (NLP/Graph/ML) specializing in the development of scalable and efficient end-to-end ML pipelines in multiple sectors(banking/insurance/financial holding/securities/e-commerence).
 * **Data Engineering:** Sever administrator & ETL main engineer, invent transcode system between SAP HANA and SAS.
 * **Professional Certification:** [Fellow, Life Management Institute](https://verify.loma.org/badge/0D5444E6390040A0A805749B63A8505D), LOMA / [Associate, Customer Service](https://verify.loma.org/badge/A5E36031FFA64C85936C5E998E85E32D), LOMA.
 * **Lecture speaker** of How can data science be used in Insurtech? @Tung-Hai University / AI Competition Solutions sharing @Cloud Innovation School.
