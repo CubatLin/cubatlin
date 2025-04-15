@@ -4,8 +4,6 @@
 
 ![image](https://user-images.githubusercontent.com/74038190/212741999-016fddbd-617a-4448-8042-0ecf907aea25.gif)
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fcubatlin&count_bg=%2395DFAF&title_bg=%239A9897&icon=python.svg&icon_color=%23FFBCF5&title=HITs%21&edge_flat=false)](https://hits.seeyoufarm.com)
-
 ###  🎙️ Activities 👯
 * **Data Science:** With 5+ years of data science experience (NLP/Graph/ML) specializing in the development of scalable and efficient end-to-end ML pipelines in multiple sectors(banking/insurance/financial holding/securities/e-commerence).
 * **Data Engineering:** Sever administrator & ETL main engineer, invent transcode system between SAP HANA and SAS.
